@@ -1,4 +1,4 @@
-# React-Toy-Playground
+# React-toy-playground
 Demos of Components with React Hooks 
 
 ## Toy Components
